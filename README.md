@@ -1,6 +1,6 @@
 ![logo](https://github.com/hubeali/cover-img/blob/main/githubcove.png?raw=true)
 <h1 align="center">Hi 👋, I'm Hub Ali</h1>
-<h3 align="center">Frontend developer from Sindh Pakistan</h3>
+<h3 align="center">Frontend Web Developer from Sindh Pakistan</h3>
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
