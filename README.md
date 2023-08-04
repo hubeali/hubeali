@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hubali.xwave@gmail.com**
 
-- ⚡ Fun fact **'m a frontend web developer, fluent in the language of coding. I specialize in transforming design concepts into interactive realities, using HTML, CSS, and JavaScript to craft dynamic and visually appealing websites. With a keen eye for detail, I ensure pixel-perfect precision and seamless functionality, resulting in an exceptional user experience across all devices.**
+- ⚡ Fun fact ** frontend web developer, fluent in the language of coding. I specialize in transforming design concepts into interactive realities, using HTML, CSS, and JavaScript to craft dynamic and visually appealing websites. With a keen eye for detail, I ensure pixel-perfect precision and seamless functionality, resulting in an exceptional user experience across all devices.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
