@@ -3,9 +3,6 @@
 <h3 align="center">Frontend Web Developer from Sindh Pakistan</h3>
 
 - 🌱 I’m currently learning **Frontend Web Development**
-
-- 👨‍💻 All of my projects are available at [https://hubeali.github.io/Pizza-delivery/](https://hubeali.github.io/Pizza-delivery/)
-
 - 💬 Ask me about **HTML CSS Bootstrap And JavaScript.**
 
 - 📫 How to reach me **hubali.xwave@gmail.com**
