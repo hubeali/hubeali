@@ -26,10 +26,10 @@
 
 
 
-<a href = https://web.facebook.com/hubali.mallah.3?mibextid=ZbWKwL&_rdc=1&_rdr>Facebook</a>
-<a href = https://instagram.com/hubali.xwave?igshid=NGExMmI2YTkyZg== >Instagram</a>
-<a href = https://twitter.com/hubali>Twitter</a>
-<a href = https://www.linkedin.com/in/hub-ali-620784268/>Linkdin</a>
+<a href="https://web.facebook.com/hubali.mallah.3?mibextid=ZbWKwL&_rdc=1&_rdr">Facebook</a>
+<a href="https://instagram.com/hubali.xwave?igshid=NGExMmI2YTkyZg==" >Instagram</a>
+<a href="https://twitter.com/hubali>Twitter"</a>
+<a href="https://www.linkedin.com/in/hub-ali-620784268/>Linkdin"</a>
 
 
 
