@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hub Ali</h1>
 <img src="https://media1.giphy.com/media/TFPdmm3rdzeZ0kP3zG/200w.webp?cid=ecf05e470i2da8d0rksyzi1a0rlq8fi75bzi50472z4y4syi&ep=v1_gifs_search&rid=200w.webp&ct=g" width="400px" align="right">
 <h3 align="center">Frontend Web Developer from Sindh Pakistan</h3>
-
+https://www.linkedin.com/in/hub-ali-620784268/
 - 🌱 I’m currently learning **Frontend Web Development**
 - 💬 Ask me about **HTML CSS Bootstrap And JavaScript.**
  👨‍💻 All of my projects are available at [https://hubeali.github.io/Pizza-delivery/](https://hubeali.github.io/Pizza-delivery/)
