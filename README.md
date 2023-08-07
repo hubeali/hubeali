@@ -28,12 +28,11 @@
 
 <a href="https://web.facebook.com/hubali.mallah.3?mibextid=ZbWKwL&_rdc=1&_rdr">Facebook</a>
 <a href="https://instagram.com/hubali.xwave?igshid=NGExMmI2YTkyZg==" >Instagram</a>
-<b>Twitter</b>https://twitter.com/hubali>Twitter
+https://twitter.com/hubali>Twitter
 
-<b>Linkdin</b>https://www.linkedin.com/in/hub-ali-620784268
+https://www.linkedin.com/in/hub-ali-620784268
 
-
-<b>Youtube</b> https://www.youtube.com/channel/UCHFuVXq3yiVqrqe5LsjXQxw
+ https://www.youtube.com/channel/UCHFuVXq3yiVqrqe5LsjXQxw
 
 
 
