@@ -17,9 +17,9 @@
 <a href="https://instagram.com/hubali.xwave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hubali.xwave" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/miranituber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miranituber" height="30" width="40" /></a>
 </p>
-Twitter: https://twitter.com/hubali_ 
-<a href = https://web.facebook.com/hubali.mallah.3?mibextid=ZbWKwL&_rdc=1&_rdr>Linkdin</a>
-Linkdin: https://www.linkedin.com/in/hub-ali-620784268/
+
+<a href = https://twitter.com/hubali>Twitter</a>
+<a href = https://www.linkedin.com/in/hub-ali-620784268/>Linkdin</a>
 <a href = https://web.facebook.com/hubali.mallah.3?mibextid=ZbWKwL&_rdc=1&_rdr>Facebook</a>
 <a href = https://instagram.com/hubali.xwave?igshid=NGExMmI2YTkyZg== >Instagram</a>
 
